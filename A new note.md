@@ -1,3 +1,2 @@
-some different text
-some more different text!
-/gitstage
+some modifications
+/gitcomm
