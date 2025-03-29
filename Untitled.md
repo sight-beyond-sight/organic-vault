@@ -1,2 +1,1 @@
 new note here!
-/gitsync
