@@ -34,9 +34,25 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "292d67e1720c4ec0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grid System in Godot.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Grid System in Godot"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "602ac45682cd872f",
@@ -215,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbbf4e9c2f2b49ab",
+  "active": "292d67e1720c4ec0",
   "lastOpenFiles": [
-    "A new note.md",
     "Untitled.md",
+    "Grid System in Godot.md",
+    "A new note.md",
     "Welcome.md"
   ]
 }
