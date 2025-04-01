@@ -8,37 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b675b17fd7efcbb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "bbbf4e9c2f2b49ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "292d67e1720c4ec0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,13 +17,11 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Grid System in Godot"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "602ac45682cd872f",
@@ -67,23 +36,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9c19b380cb1848ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "292d67e1720c4ec0",
+  "active": "e6cd8aa4fcd43cc9",
   "lastOpenFiles": [
     "Untitled.md",
     "Grid System in Godot.md",
