@@ -1,0 +1,1 @@
+I notice a resistance to 
