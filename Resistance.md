@@ -20,3 +20,5 @@ Just like I did on Saturday, I can do this today: I can meditate and realize tha
 So, I need to say: "I understand that you don't like this. I even understand why. It sucks. I'm sorry that this will hurt for you, but I am responsible for the wellbeing of this beast, for the carrying out of our duties, and I see this as necessary. We will get to do fun things later, which I know you don't understand, but that's okay. We will overcome this moment. I acknowledge that you don't want this, and yet it will be done, I will do it."
 
 And I can also lower the pain: Pomodorro is fake, but it helps lower the barrier. Doing it for only 25 minutes is easy. I can manage that. And then a break, that's easy.
+
+This is a [[Goal Alignment]] strategy.
