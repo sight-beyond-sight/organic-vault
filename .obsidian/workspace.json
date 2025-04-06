@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Resistance"
             }
+          },
+          {
+            "id": "373e28dcfdf722df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "602ac45682cd872f",
@@ -200,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b272a0044223bcd",
+  "active": "373e28dcfdf722df",
   "lastOpenFiles": [
     "Grid System in Godot.md",
     "Resistance.md",
