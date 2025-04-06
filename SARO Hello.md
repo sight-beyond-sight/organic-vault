@@ -23,3 +23,16 @@ Licență an 3
 Cum se simt ultimele luni ca student la licență? E așa cum ți-ai imaginat?
 
 
+
+SARO Contest
+Ah, cât vorbeam, era să uit să-ți menționez ceva ce cred că te-ar putea interesa. 
+Sau 
+Hey, mi-am dat seama că nu ți-am zis despre micul nostru eveniment de lansare!
+Sau
+Ah, {nume}, am uitat să-ți spun - organizăm ceva special pentru primii studenți care mă descoperă.
+
+Pentru că deja am schimbat câteva mesaje împreună, pot să-ți dezvălui un mic secret: organizăm o tragere la sorți pentru vouchere eMag pentru a celebra lansarea SARO la ASE!
+
+Codul tău personal pentru această promoție este: {cod_unic}
+
+Poți să-l împărtășești cu prietenii tăi de la facultate - pentru fiecare persoană care folosește codul tău când începe să vorbească cu mine, primești o șansă în plus la tragerea la sorți. E un fel de mulțumesc pentru că m-ajuți să cunosc mai mulți studenți de la ASE! Ce zici, cunoști pe cineva căruia i-ar plăcea să încerce?
