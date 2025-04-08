@@ -11,7 +11,8 @@ Adrese muzee vs descrieri muzee (care e specificul muzeului, ce e fain la el, ce
 ✅ Duolingo - de ce recomand această resursă pentru un student la ASE?
 ✅ Formatare denumire în descriere: MyStudyLife ar trebui să fie și titlu și să apară și în descriere, spre exemplu
 ✅ Titlurile =/= Categorii. De ex: Xerox, Event 
-Official documents - Ar ajuta un one-line description despre conținutul documentului: Aici sunt taxele pentru anul 2026 etc.
+✅Official documents - Ar ajuta un one-line description despre conținutul documentului: Aici sunt taxele pentru anul 2026 etc.
+✅Scope: important to keep this clean
 # Future Stuff
 
 - Bucharest for students
