@@ -75,9 +75,23 @@
               "icon": "lucide-file",
               "title": "Improvement Notes - Student Data"
             }
+          },
+          {
+            "id": "4d77528f056c75ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piano.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Piano"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "602ac45682cd872f",
@@ -242,12 +256,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a1368abc3462525",
+  "active": "4d77528f056c75ea",
   "lastOpenFiles": [
+    "A new note.md",
+    "().md",
+    "Piano.md",
+    "Improvement Notes - Student Data.md",
     "SARO Hello.md",
     "SARO University.md",
-    "Improvement Notes - Student Data.md",
-    "A new note.md",
     "Grid System in Godot.md",
     "Resistance.md",
     "Welcome.md"
