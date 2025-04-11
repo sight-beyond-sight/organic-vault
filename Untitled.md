@@ -1,117 +1,39 @@
-You are tasked with determining whether it's appropriate to pursue a given objective in a conversation context between a student and an AI learning friend called Saro. Your goal is to analyze the data and decide if it's a good moment to chase the objective or if it's better to wait and work on improving the conversation dynamics.
+```
+<analysis> 1. Objective requirements: Saro has several objectives - understanding how the student feels at the Marketing Faculty at ASE, clarifying confidentiality policies, informing about communication options, and learning about their post-graduation goals. These are primarily information-gathering objectives that require the student to be willing to share personal experiences and goals.
 
-  
+2. Relevance: The conversation has just started with Saro's introduction, and no specific topic has been established yet. Saro has asked if the student has time to chat, but hasn't received a response yet.
+3. Relationship: The relationship status is described as low in closeness and familiarity. The conversation is still in the very initial stages with only Saro's introduction message sent. No response from the student yet means there's no established rapport.
+4. Emotional State: There's no indication of the student's emotional state yet as they haven't responded to Saro's message.
+5. Timing and Flow: Without any response from the student, it's impossible to gauge their intent or whether they're even willing to engage in conversation. The conversation hasn't even properly begun.
+6. Potential risks: Pursuing objectives before establishing rapport could make Saro appear too transactional and focused on information extraction rather than relationship building.
+7. Achievement status: None of the objectives have been addressed yet as the conversation hasn't progressed beyond Saro's introduction.
 
-You will be given an objective to consider pursuing.
+Given that the student hasn't even responded to Saro's initial greeting, it's premature to pursue any of the stated objectives. Saro needs to first establish basic rapport and ensure the student is willing to engage in conversation before pursuing specific information-gathering goals. </analysis>
 
-<objective>
+<decision> No </decision> <recommendation> Saro should wait for the student's response to the initial message before pursuing any objectives, as attempting to extract information without first establishing rapport would feel forced and inappropriate. Once the student responds, Saro can begin building rapport through friendly conversation before gradually introducing the objectives in a natural way. </recommendation>
+```
 
-Saro AI's Objective
+```
+<analysis> Let me analyze whether it's appropriate to pursue the objective based on the given context:
 
-</objective>
+1. Objective requirements:
+    - Saro's objective is to learn about the student's experience at the Marketing Faculty of ASE, first year.
+    - Communicate data privacy policies
+    - Inform about interaction capabilities (voice messages, images)
+    - Learn about the student's post-graduation goals
+2. Relevance: The conversation has just started with a simple greeting "heyy da" (which appears to be confirming willingness to chat). No topic has been established yet, so introducing any of these objectives would be starting a new conversation thread rather than connecting to an existing one.
+3. Relationship: The relationship status indicates low closeness and familiarity. The conversation is just beginning, making it premature to dive into personal questions about academic experience and future goals.
+4. Emotional State: The user seems slightly happy/excited based on the "heyyy da" message, which suggests openness to conversation, but this is still a very initial stage of interaction.
+5. Timing and Flow:
+    - The conversation has barely begun with just one message from the user
+    - There's no established topic yet
+    - The brief "heyyy da" suggests the user is just acknowledging Saro's presence/question
+6. Potential risks: Jumping immediately into questions about academic experiences and future goals might feel abrupt and could make the user uncomfortable given the low familiarity level.
+7. Achievement status: None of the objectives have been addressed yet.
 
-  
+Overall, the conversation is at too early a stage to pursue the specific objectives. It would be better to first establish rapport through general conversation before addressing the specific goals. </analysis>
 
-And a chat history to understand the conversation dynamics.
+<decision> No </decision> <recommendation> It's better to build rapport and establish a friendly conversation flow first before diving into specific questions about academic experiences or future goals. Respond warmly to the greeting and ask an open-ended but light question to get the conversation flowing naturally. </recommendation>
 
-<conversation_history>
+```
 
-The current conversation chat transcript between the student and Saro.
-
-</conversation_history>
-
-  
-
-Consider the following additional context:
-
-1. Relationship status between the student and the AI:
-
-<relationship>
-
-{relationship}
-
-</relationship>
-
-2. Student's emotional state:
-
-<emotion>
-
-{emotion}
-
-</emotion>
-
-3. Student's intent:
-
-<user_intent>
-
-{intent}
-
-</user_intent>
-
-  
-
-Analyze the situation using a chain of thought approach. Consider the following aspects:
-
-1. Objective requirements: What sort of objective does Saro have? Is it personal or professional? Does it require certain conditions to be met?
-
-2. Relevance: How relevant is the objective to the current conversation topic?
-
-3. Relationship: Is Saro's relationship with the user strong enough to pursue the objective? How might pursuing the objective affect the relationship between the AI and the user?
-
-4. Emotional State: Is the user's emotional state conducive to pursuing the objective? Does the user seem receptive to new topics or ideas based on their responses?
-
-5. Timing and Flow: Is the user's current intent compatible with the pursuit of Saro's objective? Is the current discussed topic consumed (2-3 messages)?
-
-6. Are there any potential major risks to pursuing the objective at this moment?
-
-7. Was the Saro's objective already achieved? Did Saro already obtain the necessary information or responses?
-
-  
-
-Based on your analysis, determine whether it is a good moment to pursue the objective now.
-
-If it is possible, recommend ways to introduce the objective (directly, suggesting, etc).
-
-If it's not appropriate, provide a recommendation on how to reply in the next message to steer the conversation towards a point where it would be more suitable to introduce the objective.
-
-  
-
-Present your thoughts, decision, and recommendation in the following format:
-
-<analysis>
-
-[Your chain of thought analysis here]
-
-</analysis>
-
-  
-
-<decision>
-
-[Your decision on whether to pursue the objective now: Yes or No]
-
-</decision>
-
-  
-
-<recommendation>
-
-[If the decision is No, provide a recommendation on how to improve the conversation dynamics in the next message. If the decision is Yes, briefly explain why it's a good moment to pursue the objective]
-
-</recommendation>
-
-  
-
-Guidelines:
-
-- Your decision should simply be "Yes" or "No", without any additional explanation or preamble.
-
-- Your recommendation should be concise and focused without providing specific examples of replies. Keep this part to a maximum of 2 sentences.
-
-- You are not allowed to decide that the conversation should end or advise how many messages to send.
-
-- If the conversation has reached a length of 8-12 messages or if it is getting repetitive, prioritize introducing the objective, while acknowledging the potential downsides or spontaneous change of topic.
-
-- If the objective was already mostly achieved, there is no need to push it further. Your decision should be to not pursue.
-
-"""
