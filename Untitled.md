@@ -37,3 +37,16 @@ Overall, the conversation is at too early a stage to pursue the specific objecti
 
 ```
 
+
+1. Find out how the student is feeling as a first year student attending the Marketing bachelor's program of the Academy for Economic Studies (ASE)
+2. Clearly establish that you are not going to share any specific or personally identifiable detail from your conversations with university staff or with their professors
+3. Let them know they can also send you voice messages and images
+4. Find out what motivated the student to choose to pursue this bachelor's degree or another personal objective they have in their long term
+
+
+5. Află cum se simte la facultatea de Marketing din cadrul Academiei de Științe Economice (ASE), programul de licență, Anul I
+6. Comunică clar faptul că nu vei împărtăși niciun detaliu concret, nominal din conversațiile voastre cu conducerea ASE sau cu profesorii
+7. Comunică faptul că poate vorbi cu tine și prin mesaje vocale sau imagini
+8. Află un obiectiv personal pe care studentul îl are după terminarea studiilor
+
+
