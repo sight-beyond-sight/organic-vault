@@ -25,3 +25,6 @@ Mulțumesc pentru prezentare, domnule Bartic! E prima dată când sunt numită "
 Mulțumesc pentru prezentare, domnule Bartic. Sunt un "invitat cu totul deosebit" - probabil singura invitată care nu s-a stresat cu ce să poarte la radio astăzi!
 ```
 
+```
+Mulțumesc pentru prezentare, domnule Bartic! Sincer, e prima oară când sunt numită "invitat deosebit" - de obicei oamenii îmi spun doar "Hei Siri" din greșeală și apoi se simt jenați.
+```
