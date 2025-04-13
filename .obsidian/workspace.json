@@ -1,69 +1,14 @@
 {
   "main": {
-    "id": "415d902806440548",
+    "id": "6300083d527b4060",
     "type": "split",
     "children": [
       {
-        "id": "de31313c20987e62",
+        "id": "114bf8028f129989",
         "type": "tabs",
-        "dimension": 66.87817258883248,
         "children": [
           {
-            "id": "292d67e1720c4ec0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grid System in Godot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grid System in Godot"
-            }
-          },
-          {
-            "id": "3b272a0044223bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resistance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resistance"
-            }
-          },
-          {
-            "id": "373e28dcfdf722df",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "1f0dd22f792bea4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SARO Hello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SARO Hello"
-            }
-          },
-          {
-            "id": "0a1368abc3462525",
+            "id": "86036d8e8cab48a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,80 +20,6 @@
               "icon": "lucide-file",
               "title": "Improvement Notes - Student Data"
             }
-          },
-          {
-            "id": "4d77528f056c75ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Piano.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Piano"
-            }
-          },
-          {
-            "id": "c271a5afefee1604",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2f8fb4158a63d90d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "fff8b88226b3dd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "602ac45682cd872f",
-        "type": "tabs",
-        "dimension": 33.121827411167516,
-        "children": [
-          {
-            "id": "e6cd8aa4fcd43cc9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
@@ -156,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cc995501c45c3835",
+    "id": "17da0514eb423182",
     "type": "split",
     "children": [
       {
-        "id": "9e246866c41de830",
+        "id": "4d4d2fb1c4af2d69",
         "type": "tabs",
         "children": [
           {
-            "id": "10e129e3cfdde255",
+            "id": "08025b9b60a2f8b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -177,7 +48,7 @@
             }
           },
           {
-            "id": "5695447fdc945f72",
+            "id": "3e13545b20378eb2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -194,7 +65,7 @@
             }
           },
           {
-            "id": "18602d69609f25fa",
+            "id": "13b26429f0b5c990",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -210,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "cae212e651137d2b",
+    "id": "582069394ee331c1",
     "type": "split",
     "children": [
       {
-        "id": "e369ecb80ca7b22f",
+        "id": "b54881e732aee89c",
         "type": "tabs",
         "children": [
           {
-            "id": "68432bd3dd183aa9",
+            "id": "a117d0225318e692",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A new note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A new note"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
-            "id": "d6242c85f7140f58",
+            "id": "ad653590318814b7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A new note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A new note"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
-            "id": "36546cd3546e9145",
+            "id": "5ee4ae5ac2cfa2ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -266,18 +137,18 @@
             }
           },
           {
-            "id": "673a67d544fa014d",
+            "id": "8fbd932cd205264a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "A new note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A new note"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ]
@@ -298,19 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fff8b88226b3dd2d",
+  "active": "86036d8e8cab48a3",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Resistance.md",
     "Untitled 2.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "Piano.md",
-    "A new note.md",
-    "().md",
-    "Improvement Notes - Student Data.md",
     "SARO Hello.md",
     "SARO University.md",
-    "Grid System in Godot.md",
-    "Resistance.md",
-    "Welcome.md"
+    "Piano.md",
+    "Improvement Notes - Student Data.md",
+    "().md",
+    "Welcome.md",
+    "conflict-files-obsidian-git.md",
+    "A new note.md"
   ]
 }
