@@ -15,5 +15,8 @@ Things I want to do
 
 - [ ] Restart Tower Defence project
 - [ ] Start writing on Nexus - new character / place
-- [ ] WebDevIntermediate - Export everything
-- [ ] WebDesign - (re)export everything
+- [ ] Play FFXVI
+- [ ] Restart learning blender
+- [ ] Restart learning Japanese
+
+I don't feel like starting anything though. Every time I consider one of the options in my mind, I feel inertia and anxiety.
