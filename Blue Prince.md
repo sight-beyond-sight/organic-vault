@@ -14,6 +14,13 @@ Bedroom Stage + Plant?
 Conference room E at R3
 Lavatory C at R3
 
+
+Den E at R1
+Store  Room S at R1
+Corridor H at R2
+Hallway C at R3
+Security K at R3
+
 ![[Pasted image 20250420234715.png]]
 ![[Pasted image 20250420235339.png]]![[Pasted image 20250420235507.png]]
 ![[Pasted image 20250421000350.png]]![[Pasted image 20250421000407.png]]
