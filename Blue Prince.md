@@ -20,6 +20,7 @@ Store  Room S at R1
 Corridor H at R2
 Hallway C at R3
 Security K at R3
+Utility Closet S at R4
 
 ![[Pasted image 20250420234715.png]]
 ![[Pasted image 20250420235339.png]]![[Pasted image 20250420235507.png]]
