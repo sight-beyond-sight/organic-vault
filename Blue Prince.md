@@ -12,6 +12,7 @@ Garage D at R4
 Security E? at R4
 Bedroom Stage + Plant?
 Conference room E at R3
+Lavatory C at R3
 
 ![[Pasted image 20250420234715.png]]
 ![[Pasted image 20250420235339.png]]![[Pasted image 20250420235507.png]]
