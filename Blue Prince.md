@@ -55,3 +55,6 @@ Nook C at R3
 a x 17 / 15 
 
 17 - 15 * 2 = 4
+
+
+BLACKBRIDGE network
