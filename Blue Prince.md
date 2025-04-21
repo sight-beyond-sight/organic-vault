@@ -71,6 +71,13 @@ FIRST WORDS ON THE
 
 ![[Pasted image 20250422013830.png]]
 
+![[Pasted image 20250422021505.png]]
+![[Pasted image 20250422021651.png]]
+![[Pasted image 20250422021834.png]]
+
+![[Pasted image 20250422022036.png]]
+
+
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
 | C   | O   | U   | N   | T   |
@@ -81,7 +88,8 @@ FIRST WORDS ON THE
 | .C  | H?  | E   | C   | K   |
 | E   | I   | G   | H   | T   |
 | S   | A   | F   | E   | S   |
-	
+D A R E B I R D
+
 0 + 13 = 13
 13 + 5 = 18
 12 - 10 = 2
