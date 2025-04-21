@@ -36,6 +36,8 @@ Nook C at R3
 ![[Pasted image 20250421012409.png]]
 ![[Pasted image 20250421032030.png]]
 
+![[Pasted image 20250422003833.png]]
+
 
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
