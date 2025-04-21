@@ -43,6 +43,11 @@ Nook C at R3
 ![[Pasted image 20250422004849.png]]
 ![[Pasted image 20250422004930.png]]
 ![[Pasted image 20250422005018.png]]
+![[Pasted image 20250422005232.png]]
+
+![[Pasted image 20250422005336.png]]
+![[Pasted image 20250422005446.png]]
+![[Pasted image 20250422005608.png]]
 
 
 | .   | E   |     |     |     |
@@ -50,8 +55,8 @@ Nook C at R3
 | C   | O   | U   | N   | T   |
 | S   | C   | A   |     | L   |
 | G   |     | T   |     |     |
-| E   |     |     | H   | T   |
-| D   |     | T   | E   | S   |
+| E   | I?  | G   | H   | T   |
+| D   | A?  | T   | E   | S   |
 | .C  | H?  | E   | C   | K   |
 | E   | I   | G   | H   | T   |
 | S   | A   | F   | E   | S   |
