@@ -77,6 +77,9 @@ FIRST WORDS ON THE
 
 ![[Pasted image 20250422022036.png]]
 
+![[Pasted image 20250422022250.png]]
+
+![[Pasted image 20250422022301.png]]
 
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
