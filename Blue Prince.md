@@ -56,11 +56,13 @@ Nook C at R3
 ![[Pasted image 20250422011755.png]]
 PuSH ThReEuPaFTeRnINe Push Three Up after Nine (Nine, Three, Up)
 
+![[Pasted image 20250422012255.png]]
+
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
 | C   | O   | U   | N   | T   |
 | S   | C   | A   |     | L   |
-| G   |     | T   |     |     |
+| G   | A   | T   | E   | S   |
 | E   | I?  | G   | H   | T   |
 | D   | A?  | T   | E   | S   |
 | .C  | H?  | E   | C   | K   |
