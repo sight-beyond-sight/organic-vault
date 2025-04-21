@@ -57,6 +57,14 @@ Nook C at R3
 PuSH ThReEuPaFTeRnINe Push Three Up after Nine (Nine, Three, Up)
 
 ![[Pasted image 20250422012255.png]]
+![[Pasted image 20250422013034.png]]
+
+![[Pasted image 20250422013041.png]]
+![[Pasted image 20250422013053.png]]
+![[Pasted image 20250422013107.png]]
+![[Pasted image 20250422013147.png]]
+![[Pasted image 20250422013323.png]]
+FIRST WORDS ON THE
 
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
