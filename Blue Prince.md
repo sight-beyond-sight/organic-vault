@@ -41,7 +41,7 @@ Nook C at R3
 | .   | C   |     |     |     |
 | G   |     | T   |     |     |
 | E   |     |     | H   | T   |
-| D   |     |     |     |     |
+| D   |     | T   | E   |     |
 | .C  | H?  | E   | C   | K   |
 | E   | I   | G   | H   | T   |
 | S   | A   | F   | E   | S   |
