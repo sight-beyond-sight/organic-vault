@@ -98,6 +98,8 @@ FIRST WORDS ON THE
 ![[Pasted image 20250422033140.png]]
 
 ![[Pasted image 20250422035856.png]]
+![[Pasted image 20250422040611.png]]
+
 
 | i   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
