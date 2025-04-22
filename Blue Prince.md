@@ -114,6 +114,8 @@ FIRST WORDS ON THE
 | S   | A   | F   | E   | S   |
 D A R E B I R D
 
+iiiiiiiiiiiiiiiiiii
+
 19 SMALL GATES 
 
 ![[Pasted image 20250422042746.png]]
