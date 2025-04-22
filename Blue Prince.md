@@ -145,3 +145,5 @@ a x 17 / 15
 
 
 BLACKBRIDGE network
+
+![[Pasted image 20250422065322.png]]![[Pasted image 20250422065457.png]]
