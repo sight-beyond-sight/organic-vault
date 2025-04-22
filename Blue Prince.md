@@ -56,12 +56,15 @@ Nook C at R3
 ![[Pasted image 20250422011755.png]]
 PuSH ThReEuPaFTeRnINe Push Three Up after Nine (Nine, Three, Up)
 
+
 ![[Pasted image 20250422012255.png]]
 ![[Pasted image 20250422013034.png]]
 
 ![[Pasted image 20250422013041.png]]
 ![[Pasted image 20250422013053.png]]
 ![[Pasted image 20250422013107.png]]
+![[Pasted image 20250422063013.png]]
+![[Pasted image 20250422063044.png]]
 ![[Pasted image 20250422013147.png]]
 ![[Pasted image 20250422013323.png]]
 
