@@ -121,6 +121,9 @@ D A R E B I R D
 ![[Pasted image 20250422042802.png]]
 
 ![[Pasted image 20250422050029.png]]
+![[Pasted image 20250422050307.png]]
+
+![[Pasted image 20250422050420.png]]
 
 0 + 13 = 13
 13 + 5 = 18
