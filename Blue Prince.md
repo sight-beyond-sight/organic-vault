@@ -87,7 +87,7 @@ FIRST WORDS ON THE
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
 | C   | O   | U   | N   | T   |
-| S   | C   | A   |     | L   |
+| S   | m   | A   |     | L   |
 | G   | A   | T   | E   | S   |
 | E   | I?  | G   | H   | T   |
 | D   | A?  | T   | E   | S   |
