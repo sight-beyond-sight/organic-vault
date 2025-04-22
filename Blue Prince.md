@@ -89,6 +89,8 @@ FIRST WORDS ON THE
 
 ![[Pasted image 20250422032418.png]]
 
+![[Pasted image 20250422032724.png]]
+
 | .   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
 | C   | O   | U   | N   | T   |
