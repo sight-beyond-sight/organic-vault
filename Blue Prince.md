@@ -105,7 +105,7 @@ FIRST WORDS ON THE
 
 ![[Pasted image 20250422041047.png]]
 
-| i   | E   |     |     |     |
+| I   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
 | C   | O   | U   | N   | T   |
 | S   | m   | A   | L   | L   |
