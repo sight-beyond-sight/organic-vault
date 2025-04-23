@@ -158,3 +158,6 @@ BLACKBRIDGE network
 | 0   | 0   | 0   |
 | 0   | 0   | 0   |
 101001001
+
+![[Pasted image 20250424024101.png]]
+![[Pasted image 20250424024107.png]]
