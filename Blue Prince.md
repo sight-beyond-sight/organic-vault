@@ -151,3 +151,9 @@ BLACKBRIDGE network
 ![[Pasted image 20250423235526.png]]
 ![[Pasted image 20250424015632.png]]
 ![[Pasted image 20250424015658.png]]
+
+| 1   | 1   | 1   |
+| --- | --- | --- |
+| 1   | 1   | 1   |
+| 0   | 0   | 0   |
+| 0   | 0   | 0   |
