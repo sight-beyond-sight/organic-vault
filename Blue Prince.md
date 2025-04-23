@@ -108,7 +108,7 @@ FIRST WORDS ON THE
 | i   | E   |     |     |     |
 | --- | --- | --- | --- | --- |
 | C   | O   | U   | N   | T   |
-| S   | m   | A   |     | L   |
+| S   | m   | A   | L   | L   |
 | G   | A   | T   | E   | S   |
 | E   | I?  | G   | H   | T   |
 | D   | A?  | T   | E   | S   |
