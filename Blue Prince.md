@@ -198,3 +198,7 @@ BLACKBRIDGE network
 |     |     |     |     |     |
 |     |     |     |     | Ro  |
 |     |     |     |     |     |
+
+Eraja - purple
+Arch Aries - yellow
+Corarica = orange
