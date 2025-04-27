@@ -194,7 +194,7 @@ BLACKBRIDGE network
 |     |     |     |     |     |
 |     |     |     |     |     |
 |     |     |     |     |     |
-|     |     | Bi  | Pa  |     |
+|     |     | Bi  | Pa  | Pa  |
 |     |     |     |     |     |
 | Pa  |     |     |     | Ro  |
 | Pa  |     |     |     |     |
