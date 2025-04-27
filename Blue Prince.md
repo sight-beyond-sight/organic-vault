@@ -195,9 +195,9 @@ BLACKBRIDGE network
 |     |     |     |     |     |
 |     |     |     |     |     |
 |     |     |     |     |     |
-|     |     | Ki  |     | Ro  |
-| Kn  |     |     |     |     |
-| Bi  |     |     | Pa  |     |
+|     |     |     |     |     |
+|     |     |     |     |     |
+| Pa  |     |     |     |     |
 |     |     |     |     |     |
 
 Eraja - purple
