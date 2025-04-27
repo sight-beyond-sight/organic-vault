@@ -198,7 +198,7 @@ BLACKBRIDGE network
 |     |     |     |     |     |
 |     |     |     |     |     |
 |     |     |     | Ro  |     |
-|     |     |     |     |     |
+| Pa  |     |     |     |     |
 
 Eraja - purple
 Arch Aries - yellow
