@@ -194,11 +194,19 @@ BLACKBRIDGE network
 |     |     |     |     |     |
 |     |     |     |     |     |
 |     |     |     |     |     |
-|     |     |     |     |     |
+|     |     | Bi  | Pa  |     |
 |     |     |     |     |     |
 | Pa  |     |     |     | Ro  |
 | Pa  |     |     |     |     |
 
 Eraja - purple
 Arch Aries - yellow
-	Corarica = orange
+Corarica = orange
+
+
+7       10
+13     4
+4       2
+1       21
+4       18
+12      15
