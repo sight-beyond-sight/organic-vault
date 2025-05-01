@@ -214,3 +214,7 @@ Corarica = orange
 1       21
 4       18
 12      15
+
+
+
+![[Pasted image 20250501183840.png]]
