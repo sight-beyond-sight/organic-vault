@@ -221,4 +221,14 @@ Corarica = orange
 
 ![[Pasted image 20250501190259.png]]
 ![[Pasted image 20250501192639.png]]![[Pasted image 20250501195923.png]]
-![[Pasted image 20250501195933.png]]
+![[Pasted image 20250501195933.png]]Route 8
+Depart
+Keep Left
+To Tanner Fork
+Turn Right
+Dead End
+Record
+Each
+Stop
+On
+The Way
