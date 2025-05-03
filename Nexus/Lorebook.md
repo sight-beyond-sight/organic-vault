@@ -85,6 +85,13 @@ Here is the information extracted and organized from the file "Nexus, the Rift S
     * Uniquely absorbs and neutralizes Aether and Flux without violent reaction.
     * Appears as a deep, inky black material impervious to light.
     * Often formed into intricate containment vessels.
+* **Prism Crystals**  
+    * Store densely‑packed Aether “imprints,” enabling ultra‑fast computation once removed from the Plane.  
+    * Disrupt delicate Aetheric circuits in situ; only heavily‑shielded low‑power devices function reliably inside Prism space.
+* **Auric Galleon‑Carriers**  
+    * LEDGER’s orange‑hulled survey starships whose plating bio‑fuses with living Prism barnacles during long missions, requiring periodic chiselling or guided growth trimming.
+
+
 
 ### Organizations & Factions
 
@@ -104,6 +111,16 @@ Here is the information extracted and organized from the file "Nexus, the Rift S
 * **Nova Fighting Federation (NFF, the NFF):**
     * Largest competitive fighting organization in Colonized Space.
     * Owned by The Azkharat Group.
+* *Free Association of the LEDGER Cartography Mission (LEDGER)**  
+    * *Motto:* “We draw the lines that others dare to cross.”  
+    * Provides 99.97 %‑accurate navigation data and weather forecasts within the Prism Plane.  
+    * **Structure:**  
+        * **Board of Surveyors** – five seats (3 angelic, 1 fallen‑angel, 1 voidborn).  
+        * **Field Cohorts** – 42‑member crews rotating six‑week Prism deployments.  
+    * **Sealed‑Orange Protocol:** field units may use lethal force to protect mission‑critical data; their bright‑orange hull plating is recognised across Colonized Space.  
+    * **Signature Assets:** Auric Galleon‑Carriers (orange survey starships), Keepsake Cores (data‑replay crystals).
+
+
 
 ### Locations
 
@@ -117,18 +134,59 @@ Here is the information extracted and organized from the file "Nexus, the Rift S
 * **Raythen:**
     * Ancient temple on Terra.
     * Site of the first two recorded Rifts (one to Hell, one to Heaven), marking Year 0 CE.
+* * **Prism Plane**  
+    * Alternate dimension rich in *Prismatic Structure* that traps Aether and stores Flux.  
+    * FTL Harmonic Engines stall here; sub‑light navigation relies on LEDGER slow‑crawl charts.  
+    * Rainbow auroras, floating crystal storms, and unique fauna such as razor‑wing mantas and chandelier squids.
+* **Yarim (Moon of Nentar‑darksim)**  
+    * Black‑glass seas ringed by crystalline cliffs.  
+    * Host to Vertex City and multiple LEDGER listening beacons.
+* **Vertex City**  
+    * Spin‑hab metropolis grown from modular survey outpost modules.  
+    * Economy driven by Prism‑core refinement, salvage markets, and academic research enclaves.
+
+
 
 ### History & Timeline
 
-* **Current Year:** 3104 CE (Common Era).
+* **Current Year:** 3200 CE (Common Era).
 * **Year 0 CE:** Marked by the appearance of the Rifts of Raythen (first recorded Rifts to Heaven and Hell at an ancient temple on Terra).
 * **Exyn Project:**
     * Demonic bioengineering project by Crown Eclipse to compete with angelic reproduction.
     * Produces artificially grown adult demons (Exyn) with advantageous traits from multiple species in a one-year vat process.
-    * **Start Date:** 3170 CE. (Note: This start date seems inconsistent with the current year of 3104 CE based on the provided data. Please verify this point.)
+    * **Start Date:** 3170 CE. 
     * **Current State:** Ongoing.
     * **Exyn Details:** Genetics manipulated via Structure. Appearance/abilities vary by generation/lab. Examples: increased longevity, enhanced senses, biomechanical camouflage, demonplate limbs.
     * **Use:** Integrated into workforces, military, or sent on dangerous mining operations.
     * **Assignment:** Process for Exyn to pay off their creation debt to Crown Eclipse, involving contract work as servants, workers, or soldiers.
+* * **Prism‑Frontier Decade (3190 - 3200)**  
+    * **0 AF – Halo Fracture:** first stable Rift blooms above Calypso, opening access to the newly‑discovered *Prism Plane*.  
+    * **2 AF – Expansion Rush:** secondary Rifts manifest across Colonized Space; Faster‑Than‑Light travel fails in Prism space, forcing sub‑light “slow‑crawl” expeditions.  The **Free Association of the LEDGER Cartography Mission** (LEDGER) forms, providing the first reliable star‑charts.  
+    * **4 AF – Edict 77‑B:** the Exalted Protectorate limits Prism‑crystal exports and posts Zenith Blade blockades; LEDGER vessels become coveted “safe‑passage” escorts.  
+    * **7 AF – Vertex Founded:** survey outpost on **Yarim** (moon of Nentar‑darksim) grows into *Vertex City*, the first permanent settlement inside the Prism Plane.  
+    * **10 AF – Prism‑Core Breakthrough:** data‑dense Prism crystals revolutionise processor design outside the Plane, granting LEDGER priceless leverage.
+* ## Notable Individuals
+
+* **Dr. Selava Kai‑Kheth (“Sela”)**  
+    * Fallen‑angel cartographer; director and co‑founder of LEDGER.  
+    * External Goal: complete the *Circumpolar Drift* map to render LEDGER indispensable.  
+    * Public Flaw: ruthless meritocrat; dismisses crews for <1 % nav‑error.  
+    * Secret: carries illicit Voidstone locket enabling short bursts of full‑strength Structure magic.
+## Education & Training
+
+### Choir Arcane Lyceum (Calypso)
+
+* Elite spiral‑terraced academy teaching blade‑work, resonant engineering, cosmology, and diplomacy.  
+* Campus rings ascend a plateau: Foundations → Astral Sciences → Resonant Forge → Celestial Duelling Gardens.  
+* **Uniform Overview**  
+    * Slate‑grey cloud‑weave tunic with diagonal spiral lapel secured by ivory‑shell buttons.  
+    * Discipline sash colours: verdant green (Foundations), cobalt blue (Astral Sciences), molten copper (Forge Arts), pearl white (Duelling), ghost violet (Thesis year).  
+    * Single brushed‑steel shoulder guard engraved with the **Triune Helix** crest; rim etchings mark mastered sub‑disciplines.  
+* **Crest & Heraldry**  
+    * *Triune Helix:* three intertwining spirals (feather‑edged, lens‑thin, and luminous‑dotted) ending in an upward arrow.  
+    * Academy flag: midnight‑indigo field, silver border, ivory Triune Helix that fluoresces under UV during ceremonies.
+
+
+
 
 This information should provide a solid foundation for your Nexus setting. Let me know if you need anything else!
