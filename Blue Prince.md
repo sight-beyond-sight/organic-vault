@@ -238,5 +238,6 @@ The Way
 ![[Pasted image 20250501201735.png]]
 New CLue (Violet) Had/Loooked?
 
+![[Pasted image 20250504151422.png]]
 
 LUNAR RENAMED
