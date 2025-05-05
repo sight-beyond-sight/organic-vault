@@ -1,0 +1,3 @@
+I think a lot of my issues stem from [[Parasocial Presence]] . This means starting a task on a project is harder because of the cost of leaving the parasocial presence, and playing a single player game is as well. My dependency on it is probably the leading cause of me not being able to enrich myself from games, films, shows and books more.
+
+We need to get better. Denial and self-punishment won't work. So acknowledge it, balance it, harmonize. You *need* socialization, community, friends. And podcasts/videos aren't bad. There's a place  for video + game or video + food. But when it's everything you do... well, you know the story. Everything works like that. And your role is the mediator, the judge, the wise advisor. So convoke your council.
