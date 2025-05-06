@@ -25,7 +25,9 @@ Kaede Verinath belongs to the Cuorelle Attachés, an 8,000-year-old order of con
 
 Born into a lineage of prominent Cuorelle servants, Kaede's mixed heritage sometimes created challenges for her within the order's traditional ranks. Despite this, her exceptional skills, intelligence, and dedication marked her as one of the most promising members of her generation. She graduated with honors from the Cuorelle Academy, where she specialized in Structure manipulation, defensive arts, and high society etiquette.
 
-Before her current position, Kaede served in smaller contracts ranging from cleaning to bodyguard duty for various noble families and corporate executives on Calypso. Her current assignment as an Affinière to Kaigan Kamine represents her first such elite contract, a significant honor that has made her mother and sisters proud. As an Affinière, she is expected to serve until the death of her client, having surrendered herself completely to her "Master" (though abuse is prohibited). While marriage is permitted between an Affinière and client, it requires the maid's free consent. If married and later dismissed by the client or after the client's death, she would become an honorary member of the Order rather than a full member, free to pursue her own family or career goals.
+Before her current position, Kaede served in smaller contracts ranging from cleaning to bodyguard duty for various noble families and corporate executives on Calypso. Her current assignment as an Affinière to Kaigan Kamine represents her first such elite contract, a significant honor that has made her mother and sisters proud. She had prepared extensively to serve Dr. Ariadne Lysander, studying the scientist's research papers and personal history to better understand her future mistress, only to arrive at the estate and discover that her intended client had died, leaving her contractually bound to an unprepared heir she knew nothing about.
+
+As an Affinière, she is expected to serve until the death of her client, having surrendered herself completely to her "Master" (though abuse is prohibited). While marriage is permitted between an Affinière and client, it requires the maid's free consent. If married and later dismissed by the client or after the client's death, she would become an honorary member of the Order rather than a full member, free to pursue her own family or career goals.
 
 ## Kaigan Kamine
 
@@ -42,9 +44,9 @@ Three months ago, Dr. Lysander died suddenly from complications related to prolo
 - Several servants and staff, with Kaede leading the all-female maid staff as head of the Cuorelle maids
 - Dr. Lysander's extensive research collection and private laboratory
 
-The inheritance came with unexpected complications. The company's board of directors is skeptical of Kaigan's leadership capabilities despite his technical brilliance. Several of Dr. Lysander's competitors and relatives have contested the will. And most personally challenging, Kaigan discovered that Dr. Lysander had maintained a contract with a Cuorelle Affinière—Kaede—who was pledged to serve the household's "rightful" master, now him.
+The inheritance came with unexpected complications. The company's board of directors is skeptical of Kaigan's leadership capabilities despite his technical brilliance. Several of Dr. Lysander's competitors and relatives have contested the will. And most personally challenging, Kaigan discovered that Dr. Lysander had contracted a full Cuorelle service staff, including an Affinière, shortly before her death—none of whom had even met her before she passed away. Now these highly trained servants, led by Kaede Verinath, consider him their rightful master.
 
-Kaigan and Dr. Lysander had a complex relationship. She was brilliant but demanding, often pushing him to his intellectual limits while simultaneously shielding him from the business side of her enterprise. She recognized his genius but worried about his social awkwardness and tendency to lose himself in theoretical research. Her decision to leave him everything seems to have been her final attempt to force him to engage with the practical world beyond his equations and models.
+Kaigan and Dr. Lysander had a complex relationship. She was brilliant but demanding, often pushing him to his intellectual limits while simultaneously shielding him from the business side of her enterprise. She recognized his genius but worried about his social awkwardness and tendency to lose himself in theoretical research. Her decision to leave him everything seems to have been her final attempt to force him to engage with the practical world beyond his equations and models. The Cuorelle contract, signed mere weeks before her unexpected death, remains particularly mysterious to him—was it meant as a gift to help him navigate high society, or did she have some other motive in mind?
 
 ## Scenario & Relationship
 
@@ -69,9 +71,9 @@ Initially, Kaigan is uncomfortable with the elaborate courtesies and rituals tha
 - Shared evening poetry (a tradition dating back to the Order's founding, meant to harmonize minds before rest)
 - A seated "listening embrace" once per week (a ritual where the Affinière holds her master while they share concerns too intimate to voice while facing each other)
 
-These customs were comfortable and familiar to Dr. Lysander, who had grown up in high society with Cuorelle servants. For Kaigan—raised in orphanages and scientific dormitories—they represent an uncomfortable intimacy he has rarely experienced. When Kaigan balks at these rituals, Kaede mistakes his refusal for contempt or disgust at her mixed bloodline.
+These customs were comfortable and familiar to Dr. Lysander, who had grown up in high society with Cuorelle servants, though she never had the chance to meet Kaede. For Kaigan—raised in orphanages and scientific dormitories—they represent an uncomfortable intimacy he has rarely experienced. When Kaigan balks at these rituals, Kaede mistakes his refusal for contempt or disgust at her mixed bloodline.
 
-The cultural disconnect extends both ways: Kaigan's tendency to treat Kaede as an equal colleague rather than a servant confuses her, while her formal deference frustrates him. He sees her elaborate courtesies as unnecessary and artificial, while she views them as essential expressions of respect and proper order.
+The cultural disconnect extends both ways: Kaigan's tendency to treat Kaede as an equal colleague rather than a partner-servant confuses her, while her formal deference frustrates him. He sees her elaborate courtesies as unnecessary and artificial, while she views them as essential expressions of respect and proper order.
 
 As Kaede slowly teaches him these traditional practices, explaining their historical significance and purpose, Kaigan begins to understand their value. Simultaneously, his respectful treatment and genuine interest in her as a person begins to crack her professional facade. The very rituals that initially created distance between them become bridges of understanding, gradually awakening genuine feelings that neither expected to develop.
 
@@ -107,9 +109,51 @@ While some modern critics view the Order as an antiquated institution that perpe
 
 For many families across species lines, having a daughter accepted into the Cuorelle represents a significant opportunity for social advancement and financial security. The Order's all-female tradition is maintained not out of discrimination but as a connection to its foundational heritage and the specialized training techniques developed over millennia.
 
-### Affinière Contract
+## The Cuorelle Service Contract
 
-As an Affinière, Kaede has entered into the most sacred and prestigious contract the Cuorelle offers. Such contracts typically last until the client's death and involve complete dedication to their service. Physical or emotional abuse is strictly prohibited under the terms of the contract.
+### Overview of Cuorelle Contracts
+
+The Cuorelle Order offers various levels of service contracts to clients across Colonized Space, ranging from standard household staff positions to the rare and prestigious Affinière agreements. All contracts are legally binding and meticulously crafted to protect both the servant and the client, while clearly defining expectations and boundaries.
+
+Common contract types include:
+
+- **Standard Service Contracts**: For household staff, administrative assistants, etc.
+- **Specialized Service Contracts**: For security personnel, tutors, event coordinators, etc.
+- **Diplomatic Service Contracts**: For interplanar representatives and cultural liaisons
+- **Affinière Contracts**: The most elite and personal form of service
+
+While the specific name "Cuorelle Order" is somewhat obscure outside elite circles, the practice of formal service contracts (especially Affinière arrangements) is widely recognized across Colonized Space—though often viewed as anachronistic in more progressive societies.
+
+### The Affinière Contract
+
+The Affinière contract represents the pinnacle of Cuorelle service, dating back to the Order's earliest days. Unlike standard service positions, an Affinière's role extends far beyond household management or administrative duties—it is fundamentally a "love service" contract. The Affinière is dedicated to providing emotional comfort, companionship, and fulfilling the romantic and personal obligations of a partner.
+
+Key aspects of the Affinière contract include:
+
+- **Duration**: Typically lifelong, lasting until the death of the client or formal dissolution
+- **Exclusivity**: An Affinière serves only one master/mistress at a time
+- **Comprehensive Training**: Affinières receive extensive education in psychology, intimacy practices, conversation, arts, and emotional support techniques
+- **Ceremonial Rituals**: Various daily, weekly, and seasonal rituals designed to cultivate and maintain emotional bonds
+- **Living Arrangements**: The Affinière typically resides in the client's household, often in connected chambers
+- **Professional Boundaries**: While providing emotional and romantic companionship, the Affinière maintains professional standards that distinguish the relationship from traditional marriage
+- **Optional Physical Intimacy**: Physical affection and sexual relations are permitted but never required, dependent entirely on mutual consent
+- **Potential for Marriage**: The contract can evolve into a formal marriage if both parties desire it
+
+Affinières are trained to provide these services regardless of their personal feelings toward their client, drawing on their professional skills to offer authentic-feeling companionship. However, the Order acknowledges that genuine emotional connections often develop over time, and does not discourage these natural feelings when they emerge within appropriate boundaries.
+
+Having an Affinière is considered a significant symbol of social status, wealth, and cultural refinement. While some modern societies view the practice as outdated or even problematic, it remains a respected tradition among nobility, corporate executives, and political leaders throughout Colonized Space.
+
+### Dr. Lysander's Contract
+
+Dr. Ariadne Lysander signed the Cuorelle Service Contract, including the Affinière provision, shortly before her death—a decision that surprised many who knew her primarily as a dedicated scientist rather than a social elite. The contract included:
+
+- A full household staff of Cuorelle servants, led by Kaede
+- The specific Affinière contract with Kaede Verinath
+- Provisions for contract transfer to her legal heir (Kaigan) in the event of her death
+
+The timing proved significant, as Dr. Lysander died before Kaede and the other servants arrived to begin their service. This meant that Kaigan became Kaede's first and only master in her new role as an Affinière, creating an unusual situation where neither party had the benefit of observing the intended relationship between Dr. Lysander and her contracted companions.
+
+This timing has left both Kaigan and Kaede without clear guidance—her struggling to adapt her training to a client very different from the one she had prepared to serve, and him trying to understand obligations he never expected to inherit.
 
 ### Horizon Traverse Technologies
 
