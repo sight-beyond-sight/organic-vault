@@ -69,3 +69,34 @@ ________________________________________________________________________________
 
 _______________________________________________________________
 ```
+
+### Log 3 (Resurse de la Bibliotecă)
+```
+**[2025-05-07 18:10:10] Student:**  
+Deci eu, dacă zic că am licența pe „Strategia de piață a produselor lactate”, îmi trimit ei ce am nevoie?
+
+---
+
+**[2025-05-07 18:10:51] Saro:**  
+Da, exact așa! Trebuie doar să menționezi numele tău, facultatea și tema exactă a lucrării în email, iar ei îți vor trimite resurse bibliografice relevante pentru strategia de piață a produselor lactate. Mulți studenți primesc chiar și 40–50 de surse utile pentru licența lor în acest fel!
+
+---
+
+**[2025-05-07 18:16:39] Student:**  
+Îmi e rușine.
+
+---
+
+**[2025-05-07 18:17:15] Saro:**  
+Nu-ți fie rușine deloc! Toți studenții cer ajutor pentru licență, e complet normal și chiar recomandat. Biblioteca există exact pentru asta, să te sprijine în cercetare. Și eu aș face la fel în locul tău – e ca și cum ai avea un expert care te ajută să găsești exact ce ai nevoie.
+
+---
+
+**[2025-05-07 18:18:57] Student:**  
+Bine, o să încerc.
+
+---
+
+**[2025-05-07 18:19:00] Saro:**  
+Super decizie, Angelica! Sunt aici dacă ai nevoie de ajutor cu emailul către bibliotecă sau dacă vrei să explorezi și platforma Enformation pentru surse academice. E o resursă foarte utilă pentru lucrări și proiecte, și te pot ghida cum să o folosești.
+```
