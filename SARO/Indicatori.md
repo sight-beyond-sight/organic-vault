@@ -12,3 +12,4 @@ e.g.
 	1) AdminPanel User Analysis (press Show All)
 	2) Keep in mind they dont automatically get a message from SARO when added  to DB
 	3) Divide total interactions by number of users who answer to get average/median  answers
+	4) Need last user message script
