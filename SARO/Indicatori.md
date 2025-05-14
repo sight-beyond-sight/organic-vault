@@ -13,3 +13,8 @@ e.g.
 	2) Keep in mind they dont automatically get a message from SARO when added  to DB
 	3) Divide total interactions by number of users who answer to get average/median  answers
 	4) Need last user message script
+
+4) Flow table
+	1) Need flow categorizations script (look through all chats, count them)
+	2) Reply rate per flow
+	3) Avg conv rate per flow
