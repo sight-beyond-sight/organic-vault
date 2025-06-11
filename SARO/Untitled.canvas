@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"398cfe80340b77a0","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""}
+		{"id":"398cfe80340b77a0","x":-100,"y":-30,"width":160,"height":50,"type":"text","text":"**SARO_intent**"},
+		{"id":"e390375067b63986","type":"text","text":"**SARO_intent**","x":-100,"y":40,"width":160,"height":50}
 	],
 	"edges":[]
 }
