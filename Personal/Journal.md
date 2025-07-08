@@ -11,3 +11,4 @@ It would be better if I just *accepted* some things. Some hours we must give for
 I'm thinking about the problem of being overstimulated. And I'm also thinking about the fear of losing potential. It's not right, I want it all. I don't accept the answer being "you must cast away your love for these things but one." and maybe that's my folly. But I won't accept it. However this isn't a workable solution right now either. So what do we do?
 
 Drawing, guitar, piano, japanese, 3d modeling, music production. Something to do with the hands.
+
