@@ -19,3 +19,4 @@ I think I can accept only being fluent in Japanese and being pretty good at
 - guitar
 - piano (cannot start this now, will need to wait for christmas)
 - 3d modeling
+
