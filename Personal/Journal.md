@@ -12,3 +12,6 @@ I'm thinking about the problem of being overstimulated. And I'm also thinking ab
 
 Drawing, guitar, piano, japanese, 3d modeling, music production. Something to do with the hands.
 
+What could I accept being good at *next year*?
+
+I think I can accept only being fluent in Japanese and
