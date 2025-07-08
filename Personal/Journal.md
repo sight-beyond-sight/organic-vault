@@ -14,4 +14,8 @@ Drawing, guitar, piano, japanese, 3d modeling, music production. Something to do
 
 What could I accept being good at *next year*?
 
-I think I can accept only being fluent in Japanese and
+I think I can accept only being fluent in Japanese and being pretty good at
+- drawing
+- guitar
+- piano (cannot start this now, will need to wait for christmas)
+- 3d modeling
