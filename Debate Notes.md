@@ -37,3 +37,6 @@ Distrust of liberal agenda
 Core to destabilization/radicalization
 
 Insularity of religion
+
+
+~Nu este inerent discriminatoriu~
