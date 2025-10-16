@@ -5,3 +5,6 @@ Calitativ:
 - People look down on you
 Cantitativ:
 - Work until you hate it
+
+Knowledge for Passion
+- Actual role
