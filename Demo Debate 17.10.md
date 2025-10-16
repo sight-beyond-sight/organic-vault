@@ -7,6 +7,9 @@ Cantitativ:
 - Work until you hate it
 
 
+Framing:
+Not hate
+Time pressure
 
-Knowledge for Passion
-- Actual role
+Burden
+- 
