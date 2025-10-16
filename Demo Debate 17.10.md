@@ -1,3 +1,6 @@
+**Money matters**
+
+
 **Carieră -> Hate Passion**
 Calitativ:
 - Different (inherently frustrating)
@@ -10,6 +13,9 @@ Cantitativ:
 Framing:
 Not hate
 Time pressure
+
+Agent motion
+- Decision-making moment
 
 Burden
 - 
