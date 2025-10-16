@@ -18,4 +18,6 @@ Agent motion
 - Decision-making moment
 
 Burden
-- 
+- Satsifactia overall cu viata este mai mare on average pe cariera cu bani
+- You lose your passion 
+- Knowledge 
