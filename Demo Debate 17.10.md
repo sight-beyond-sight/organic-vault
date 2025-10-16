@@ -6,5 +6,7 @@ Calitativ:
 Cantitativ:
 - Work until you hate it
 
+
+
 Knowledge for Passion
 - Actual role
