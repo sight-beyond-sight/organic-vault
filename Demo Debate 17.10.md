@@ -1,5 +1,5 @@
 **Money matters**
-
+Burdens: safety of choice, life satisfaction (libertate)
 
 **Carieră -> Hate Passion**
 Calitativ:
