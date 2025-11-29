@@ -1,1 +1,0 @@
-Create prompt tab in main document
