@@ -1,2 +1,5 @@
+---
+type: book
+---
 This is the [link](https://global.hungryminds.com/en-eu/pages/cyber-monday-the-book?variant=43738853081380&utm_source=YouTube&utm_medium=blogger&utm_campaign=arturrehi&utm_term=home+page%2Fshop+page)
 Cool book to have but also to gift.
