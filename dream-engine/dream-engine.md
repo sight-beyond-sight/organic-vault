@@ -1,0 +1,1 @@
+This note is about this project and will probably have links to other parts of it.
