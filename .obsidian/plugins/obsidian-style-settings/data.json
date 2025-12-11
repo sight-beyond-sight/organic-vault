@@ -1,10 +1,4 @@
 {
-  "Components@@tab-autohide": true,
-  "Components@@Ribbon-autohide": true,
-  "Components@@tab-title-bar-autohide": true,
-  "Components@@nav-header-autohide": true,
-  "Components@@vault-profile-autohide": false,
-  "Components@@immersive-canvas": true,
   "Appearance-dark@@card-layout-open-dark": false,
   "Appearance-dark@@accent-dark": "#ef8862",
   "Appearance-dark@@accent-color-override-dark": true,
