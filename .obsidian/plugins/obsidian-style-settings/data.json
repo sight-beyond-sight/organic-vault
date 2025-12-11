@@ -1,5 +1,11 @@
 {
-  "Appearance-dark@@card-layout-open-dark": true,
+  "Components@@tab-autohide": true,
+  "Components@@Ribbon-autohide": true,
+  "Components@@tab-title-bar-autohide": true,
+  "Components@@nav-header-autohide": true,
+  "Components@@vault-profile-autohide": false,
+  "Components@@immersive-canvas": true,
+  "Appearance-dark@@card-layout-open-dark": false,
   "Appearance-dark@@accent-dark": "#ef8862",
   "Appearance-dark@@accent-color-override-dark": true,
   "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-CSS-dark",
@@ -14,12 +20,5 @@
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-CSS-dark",
   "Appearance-dark@@background-underlying-CSS-dark": "url(\"https://github.com/Akifyss/obsidian-border/blob/main/img/sunset-bg.png?raw=true\") bottom/cover no-repeat fixed",
   "Appearance-dark@@background-underlying-CSS-blend-mode-dark": "none",
-  "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-tab-style-dark",
-  "Appearance-dark@@card-highlight-dark": true,
-  "Components@@tab-autohide": true,
-  "Components@@Ribbon-autohide": true,
-  "Components@@tab-title-bar-autohide": true,
-  "Components@@nav-header-autohide": true,
-  "Components@@vault-profile-autohide": false,
-  "Components@@immersive-canvas": true
+  "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-tab-style-dark"
 }
