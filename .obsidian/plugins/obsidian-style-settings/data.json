@@ -14,5 +14,13 @@
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-CSS-dark",
   "Appearance-dark@@background-underlying-CSS-dark": "url(\"https://raw.githubusercontent.com/Akifyss/obsidian-border/main/img/sunset-bg.png\") bottom/cover no-repeat fixed",
   "Appearance-dark@@background-underlying-CSS-blend-mode-dark": "none",
-  "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-tab-style-dark"
+  "Appearance-dark@@Active-states-file-explorer-select-dark": "activated-file-tab-style-dark",
+  "Components@@outline-enhanced": true,
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": true,
+  "Components@@tab-title-bar-autohide": true,
+  "Components@@tab-autohide": true,
+  "Components@@vault-profile-autohide": true,
+  "Components@@immersive-canvas": true,
+  "Components@@media-embed-card-border-off": true
 }
