@@ -1,0 +1,3 @@
+- NA Spar Discord
+- [Welcome to the world's largest online debate sparring community](https://vacationspars.com/)
+- 
