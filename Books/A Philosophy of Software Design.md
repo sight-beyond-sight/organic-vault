@@ -1,0 +1,1 @@
+https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201

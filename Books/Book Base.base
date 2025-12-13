@@ -5,3 +5,14 @@ views:
       and:
         - file.inFolder("Books")
         - file.ext != "base"
+    order:
+      - file.name
+      - location
+      - topic
+      - downloaded
+      - completed
+    columnSize:
+      file.name: 942
+      note.location: 101
+      note.topic: 88
+      note.downloaded: 146
