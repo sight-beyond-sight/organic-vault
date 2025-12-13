@@ -1,0 +1,1 @@
+https://www.inventoridigiochi.it/wp-content/uploads/2020/07/art-of-game-design.pdf

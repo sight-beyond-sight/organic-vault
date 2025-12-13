@@ -1,0 +1,1 @@
+https://gamifique.wordpress.com/wp-content/uploads/2011/11/1-rules-of-play-game-design-fundamentals.pdf
