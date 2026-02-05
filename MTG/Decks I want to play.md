@@ -5,3 +5,4 @@
 
 *Commander*
 Kaalia, of the Vast
+Y'Shtola, Night's Blessed (precon)
