@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"57f0d85d798105ce","type":"text","text":"Style 1","x":-235,"y":120,"width":110,"height":80},
+		{"id":"295af5f443175477","type":"text","text":"Style 2","x":-100,"y":120,"width":110,"height":80,"color":"1"},
+		{"id":"15f5d61b3611d21a","type":"text","text":"Style 3","x":40,"y":120,"width":110,"height":80},
+		{"id":"65a23fb300270dbc","type":"text","text":"Shareable Card","x":-170,"y":-260,"width":250,"height":340},
+		{"id":"cc81098dfab8b60f","type":"text","text":"pop-up","x":-710,"y":-180,"width":350,"height":140},
+		{"id":"06107357516b607b","type":"text","text":"Continue","x":-710,"y":-20,"width":175,"height":60},
+		{"id":"518cb2bb39d19b05","type":"text","text":"Share Icon","x":-500,"y":-20,"width":140,"height":60},
+		{"id":"e0720ff617a05002","x":260,"y":-920,"width":325,"height":704,"type":"file","file":"Pasted image 20260224142150.png"}
+	],
+	"edges":[
+		{"id":"120010dca44ef34e","fromNode":"65a23fb300270dbc","fromSide":"right","toNode":"e0720ff617a05002","toSide":"bottom"}
+	]
+}
