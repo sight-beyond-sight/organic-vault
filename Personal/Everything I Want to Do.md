@@ -1,4 +1,4 @@
-Here is a list of everything I want to do, at the current moment:
+Here is a list of *everything I want to do*, at the current moment:
 - **Learn how to program well and use game engines very well** to develop video games; develop a cool portfolio of vertical slices (and get hired at a studio)
 - **Make games** I want to make: single player gacha game, universe sim, visual novel sandbox, city builder, spaceship trading manager, some RPG at some point (design and develop these games)
 - **Learn Japanese**, become fluent in it, hold regular conversations with Japanese natives, enjoy native content in Japanese, play video games in Japanese, think in Japanese interchangeably with English and Romanian
