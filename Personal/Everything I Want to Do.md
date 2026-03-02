@@ -24,5 +24,11 @@ Here is a list of everything I want to do, at the current moment:
 - **Participate in some sort of regular sport** or physical activity (likely a sport though, maybe tennis and/or swimming)
 - **Get a girlfriend**
 - **Travel to the UK** to meet british friends
-- **Travel to Georgia** to meet Chiki and Noloz
+- **Travel to Georgia** to meet Chiki
 - **Travel to Japan**
+
+Until the end of this summer, I allow myself to only work on and only worry about this:
+- Game Dev
+- Performing much more at work (both jobs)
+- Losing weight and getting fit
+- Socializing
