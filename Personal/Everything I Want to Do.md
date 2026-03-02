@@ -27,7 +27,7 @@ Here is a list of everything I want to do, at the current moment:
 - **Travel to Georgia** to meet Chiki
 - **Travel to Japan**
 
-Until the end of this summer (2026), I allow myself to only work on and only worry about this:
+*Until the end of this summer* (2026), I allow myself to *only work on and only worry about this:*
 - Game Dev
 - Performing much more at work (both jobs)
 - Losing weight and getting fit
