@@ -1,0 +1,3 @@
+Kobo Libra **Color** ([Link]([https://www.amazon.de/-/en/Kobo-Anti-Glare-KaleidoTM-Audiobooks-Waterproof-black/dp/B0CZXX465Z?crid=36WY0WLNEQ962&dib=eyJ2IjoiMSJ9.EEXVQoRKlUtCF7vpikNNYoB6VxVvEZOGYQ0YJuqu8PhygQSND5fZpJ8Ruo28O2ubk8wcSzqkhEBs3aHiAk7ZXhh2dEPY1Z7sIy9uz2wLOfxn1gBqMCcG7mkd5f-6_nqNmtEel9ouDtjos4LeCaEzq_gEIhAwCHErl7tGiAu_Y-vT9F636kKr--fHbKWAgvn38bBHBL3Z6HTw1xTDINw7hD--EHtkBJOnWcAqSs-Jz-c.HblDMHURqujipUOtgF5h4sBrnttzpClo5B2DYpDBU4I&dib_tag=se&keywords=kobo%2Blibra&qid=1773842486&sprefix=kobo%2Blibr%2Caps%2C173&sr=8-1&th=1](https://amzn.eu/d/0bOEJ9fX)))
+
+![[Pasted image 20260318163450.png]]
