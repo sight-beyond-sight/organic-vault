@@ -19,6 +19,7 @@ who cares
 
 I don't know if this is a good idea to be totalitarian
 ## G3
+Neutralizing on clash 2 does not mean you win clash 2
 
 ## O3
 
