@@ -4,9 +4,9 @@ No need to tell me the plan like a table of contents
 
 ## O1
 Definitions: TOO long, doesn't do above either
-Dangerous 
+Eye contact!
 ## G2
-
+Roadmap is useless
 ## O2
 
 ## G3
