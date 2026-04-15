@@ -29,9 +29,14 @@ Crucial: WEIGHING. Why are these rights more important than what you get?
 Need to address key parts/questions of the debate
 
 G reply
+The reply is pre-written. It may not be pre-written.
 
 O reply
 Argumentative (Counter-argumentative)
 
 
 Feedback for organizers: please change the setup.
+
+Clasament
+
+Echipa guv
