@@ -7,8 +7,17 @@ Definitions: TOO long, doesn't do above either
 Eye contact!
 ## G2
 Roadmap is useless
+Establish that lack of these pieces of evidence matters enough to make people upset or not
 ## O2
+Explain why subcategory matters
+Mech for abusive behaviour?
 
+Procedural:
+- Constitution
+- EU
+who cares
+
+I don't know if this is a good idea to be totalitarian
 ## G3
 
 ## O3
