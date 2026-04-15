@@ -29,7 +29,9 @@ Crucial: WEIGHING. Why are these rights more important than what you get?
 Need to address key parts/questions of the debate
 
 G reply
+
 O reply
+Argumentative (Counter-argumentative)
 
 
 Feedback for organizers: please change the setup.
