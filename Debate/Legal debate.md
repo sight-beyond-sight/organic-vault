@@ -20,8 +20,13 @@ who cares
 I don't know if this is a good idea to be totalitarian
 ## G3
 Neutralizing on clash 2 does not mean you win clash 2
+Need to add to clashes or you just repeat
 
 ## O3
+Need to add to clashes or you just repeat
+Need mechanisms
+Crucial: WEIGHING. Why are these rights more important than what you get?
+Need to address key parts/questions of the debate
 
 G reply
 O reply
