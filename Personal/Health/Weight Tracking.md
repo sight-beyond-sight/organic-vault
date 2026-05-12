@@ -14,3 +14,12 @@ I ate: 1x Powerade 1x huel with 400ml oat and 100ml vanilla almond milk, 3x oat 
 
 **May 7th**
 Morning weight: 91.9kg
+
+**May 11th** (Gym day - strength + cardio)
+Morning weight: 92.7
+I ate: 1x huel, a lot of sunflower seeds (hulled, roasted)
+
+**May 12th** (No physical activity)
+Morning weight: 91.9kg
+I ate: 2x huel, 1x toasted sandwich (2 slice bread, 1 slice violife gouda vegan cheese, 1 crispy salad leaf), one tomato
+
