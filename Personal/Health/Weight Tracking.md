@@ -25,4 +25,9 @@ I ate: 1x huel, a lot of sunflower seeds (hulled, roasted)
 Morning weight: 91.9kg
 I ate: 2x huel, 1x toasted sandwich (2 slice bread, 1 slice violife gouda vegan cheese, 1 crispy salad leaf), one tomato, 1x microwave popcorn, 2x belgian chocolate pieces
 
+**May 13th** (gym -> strength+cardio)
+Morning weight: 91.9kg
+I ate: creamy vegan  pasta, a couple store-bought blank mini-ecclaires with finetti, some leftover fries from bro with sweet-and-sour sauce
 
+**May 14th** (no gym)
+Morning weight: 91.2kg
