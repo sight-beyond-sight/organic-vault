@@ -31,3 +31,6 @@ I ate: creamy vegan  pasta, a couple store-bought blank mini-ecclaires with fine
 
 **May 14th** (no gym)
 Morning weight: 91.2kg
+
+**May 15th** (no gym)
+Morning weight: 91.6kg
