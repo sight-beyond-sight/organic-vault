@@ -17,13 +17,21 @@ Either way, meeting with Priv:
 	- Thing happened at the factory, not sure what, could be connected to Fury
 	- Tells them to disguise as technomancers, tells them it's to avoid panic, doesn't explain unless pressed
 	- Reminds them of the official narrative, and that fearmongering will be considered deliberate hindering of the process of establishing order
-	- Tells them to get to Mac's shop. Player can roll for history to remember that Mac's is a not-so-secret black market shop. She also seems to hesitate when suggesting him (insight check). They can press her and she tells them he's a useful asset (why would she admit that? What if they don't succeed any rolls? Isn't this an interesting story aspect?) 
+	- Tells them to get to Mac's shop. Player can roll for history to remember that Mac's is a not-so-secret black market shop. She also seems to hesitate when suggesting him (insight check). She says they'll have to go by foot (railcars are down and she won't give them a rider again). They can press her and she tells them he's a useful asset (why would she admit that? What if they don't succeed any rolls? Isn't this an interesting story aspect?) 
 	- Threatens them. If they don't act discretely, they'll all take the fall for whatever happens.
 
 **Beat 2: Meeting Mac**
-Sequence 1: Travel. 
+Sequence 1: Travel (by foot)
 Ask players to roll on a Complications Table (**To-do**). From table, pick problem they have to describe. Then, pick solution. Do this once for each player.
 Risk: might take too  long
+
+OR, IF taking too long:
+Checkpoint: guard wants to take away family's remnant pet. Players can intervene. 
+- Guard motivation: rookie who wants to prove himself. Not very smart, or too anxious to be smart. 
+- Can be easily persuaded to leave them alone to not cause a mistake (superior reprimand) or a scene, or to hurt the little kid's feelings. Also easy to intimidate. Remnant is a fat scarab.
+- If win -> everyone gains a hope and a warm feeling in their hearts
+- If lose -> guard tells them the station to lodge a complaint at (future sidequest)
+- If ignore -> they just walk past as the dog is taken away and the kid cries (very sad)
 
 Sequence 2: The Racket.
 - Players enter Mac's shop
@@ -38,5 +46,5 @@ Sequence 2: The Racket.
 - Set the scene: small crowd outside, police spokesperson outside. Tells them about sewer at the back when they ask for help
 	- Can find out that he can open an emergency side door (how can they find this out?), can persuade or intimidate him to give them the device that lets them in that way. They can try to  get in without getting see, by rolling stealth. If they succeed with fear, a citizen spots them and will accost them later (slight complication for later, but what?). If they fail the roll, the crowd spots them and the Priv will be harsher with them (in what way?). This starts them on the ground floor,.
 	- Can spot the vents on the roof with the naked eye. If they decide to go that way, the path is round the back of the factory, a series of emergency ladders. If they try to climb, they can spot an infected remnant on the upper level through a window. They have to roll stealth, if they fail a timer begins where the remnant begins to hit the glass until it breaks, chasing them up the roof. Not a hard fight, but scary. If they enter through the vents, they start on the second floor.
-	- Can go through the outflow pipe in the back. Big monster, harder fight. How can they get around that? Maybe some barrels of sludge on the other side of the factory? Sounds too simple and video gamey.
+	- Can go through the outflow pipe in the back. Big monster, harder fight. How can they get around that? Maybe some barrels of sludge on the other side of the factory? Sounds too simple and video gamey. Maybe an animal handling check to either offer sludge or a healing paste (if they got one from Mac), or a harder one to just pass by (nature check shows that the creature doesn't see things that move slowly very well, and it's wounded, so it chooses to ignore them)
 	- What else is around the factory?
