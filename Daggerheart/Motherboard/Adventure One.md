@@ -17,6 +17,7 @@ Either way, meeting with Priv:
 	- Tells them to disguise as technomancers, tells them it's to avoid panic, doesn't explain unless pressed
 	- Reminds them of the official narrative, and that fearmongering will be considered deliberate hindering of the process of establishing order
 	- Tells them to get to Mac's shop. Player can roll for history to remember that Mac's is a not-so-secret black market shop. She also seems to hesitate when suggesting him (insight check). They can press her and she tells them he's a useful asset (why would she admit that? What if they don't succeed any rolls? Isn't this an interesting story aspect?) 
+	- Threatens them. If they don't act discretely, they'll all take the fall for whatever happens.
 
 **Beat 2: Meeting Mac**
 Sequence 1: Travel. 
@@ -33,4 +34,7 @@ Sequence 2: The Racket.
 - Mac has an eyepatch and is missing 3 fingers, accident from the massacre. He's cranky but he likes remnants. He doesn't have a family or friends, he's a bit of a recluse. He doesn't explain why at this stage.
 
 **Beat 3: Entering the factory**
-- Set the scene: small crowd outside, police spokesperson outside. Tells them about sewer at the back when questioned.
+- Set the scene: small crowd outside, police spokesperson outside. Tells them about sewer at the back when they ask for help
+	- Can find out that he can open an emergency side door (how can they find this out?), can persuade or intimidate him to give them the device that lets them in that way. They can try to  get in without getting see, by rolling stealth. If they succeed with fear, a citizen spots them and will accost them later (slight complication for later, but what?). If they fail the roll, the crowd spots them and the Priv will be harsher with them (in what way?). This starts them on the ground floor,.
+	- Can spot the vents on the roof with the naked eye. If they decide to go that way, the path is round the back of the factory, a series of emergency ladders. If they try to climb, they can spot an infected remnant on the upper level through a window. They have to roll stealth, if they fail a timer begins where the remnant begins to hit the glass until it breaks, chasing them up the roof. Not a hard fight, but scary. If they enter through the vents, they start on the second floor.
+	- Can go through the outflow pipe in the back. Big monster, harder fight. How can they get around that?
