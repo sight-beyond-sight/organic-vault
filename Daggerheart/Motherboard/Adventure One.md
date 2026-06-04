@@ -10,6 +10,7 @@ Option 2: Motorized carriage ride to the Priv's office. Maybe the Priv's messeng
 - Problem: boring, nothing to do in a little car but talk to the NPC, who won't tell them what they have to do.
 - Good thing: NPC can ask them about their connection to the Priv and to each other, can talk to them about the massacre. Also good: makes the meeting with the Priv hit harder, more anticipation.
 - To-do: pick some distinctive psychological and physical trait for this guy
+- Idea: he's working with the political opponent.
 
 Either way, meeting with Priv:
 - She explains
