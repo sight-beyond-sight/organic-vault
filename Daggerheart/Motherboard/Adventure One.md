@@ -35,7 +35,7 @@ Checkpoint: guard wants to take away family's remnant pet. Players can intervene
 
 Sequence 2: The Racket.
 - Players enter Mac's shop
-- Mac is being shaken down by this officer. 
+- Mac is being shaken down by an officer. 
 - Players choose:
 	- Sit by, do nothing -> Officer intimidates Mac, gets bribe, Mac upset (so what?)
 	- Back Mac up -> Easy roll. Win -> Officer leaves. Mac happy (so what? maybe gives them some items?). Lose -> Mac still happy about their support, but can't afford to spare items, tells them that. (Doesn't that suck?)
