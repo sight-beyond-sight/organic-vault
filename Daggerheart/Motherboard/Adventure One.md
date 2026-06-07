@@ -10,12 +10,13 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 	- Price gouger, scalper, opportunist
 	- Gray skin, blonde hair, tied in low knot, amber eyes, no visible sclera
 	- Wants to sell her stock and get with the May Traders
+	- Offers a filter for 110 Quantum (market value is 20)
 
 - Syncope Sarum
 	- Firbolg, he/him, 30
 	- Wants to buy water filter from Piezo for himself and his plants, which he calls his children
 	- Hypochondriac
-	- 
+	
 
 - Zig Lowynn
 	- Orderborne 
@@ -24,6 +25,7 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 	- he/him
 	- Priv's messenger
 	- Studied with the Priv to be in the guard, instead went to the Tower Watch, at Sear Point.
+- Tristan Sky
 
 Option 2: Motorized carriage ride to the Priv's office. Maybe the Priv's messenger is in the back with them.
 - Problem: boring, nothing to do in a little car but talk to the NPC, who won't tell them what they have to do.
