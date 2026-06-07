@@ -123,3 +123,5 @@ Der Hammer
 - doesn't know where the lodge is
 - Travis wants body to be more proportional
 - Eva would be open to learning the real truth of life even if it's devastating
+- Eva performs and gets all the attention (she shouldn't be getting all  the attention)
+- 
