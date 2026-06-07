@@ -107,3 +107,9 @@ SESSION 0 STUFF
 Eva
 - cold contact with her people
 - she feels fatalistic now that it's happening again
+
+Travis
+- captured Travis as a pet
+- probably from somewhere with trees
+- First kill was my captor (trophy his plaid shirt)
+
