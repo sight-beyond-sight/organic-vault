@@ -28,6 +28,11 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 - Tristan Sky
 	- Loreborne Faerie, 22, he/him
 	- Burnt out, exhausted with the Priv
+	- Offers a Sunroot Bitter, asks whether to spin it. Spinning reduces bitterness and also effectivene
+- Officer Hatchet,
+	- Elf, 22, ordeborne, she/her.
+	- Dark hair in high tail, not too long. Argent Guard uniform.
+	- 
 
 Option 2: Motorized carriage ride to the Priv's office. Maybe the Priv's messenger is in the back with them.
 - Problem: boring, nothing to do in a little car but talk to the NPC, who won't tell them what they have to do.
