@@ -26,6 +26,8 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 	- Priv's messenger
 	- Studied with the Priv to be in the guard, instead went to the Tower Watch, at Sear Point.
 - Tristan Sky
+	- Loreborne Faerie, 22, he/him
+	- Burnt out, exhausted with the Priv
 
 Option 2: Motorized carriage ride to the Priv's office. Maybe the Priv's messenger is in the back with them.
 - Problem: boring, nothing to do in a little car but talk to the NPC, who won't tell them what they have to do.
@@ -53,6 +55,8 @@ Checkpoint: guard wants to take away family's remnant pet. Players can intervene
 - If win -> everyone gains a hope and a warm feeling in their hearts
 - If lose -> guard tells them the station to lodge a complaint at (future sidequest)
 - If ignore -> they just walk past as the dog is taken away and the kid cries (very sad)
+
+
 
 Sequence 2: The Racket.
 - Players enter Mac's shop
