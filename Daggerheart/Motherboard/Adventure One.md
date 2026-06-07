@@ -80,5 +80,15 @@ Sequence 2: The Racket.
 	- Can go through the outflow pipe in the back. Big monster, harder fight. How can they get around that? Maybe some barrels of sludge on the other side of the factory? Sounds too simple and video gamey. Maybe an animal handling check to either offer sludge or a healing paste (if they got one from Mac), or a harder one to just pass by (nature check shows that the creature doesn't see things that move slowly very well, and it's wounded, so it chooses to ignore them)
 	- What else is around the factory?
 
-Spy = Farrow Hardsing (human man, 24 yr old)
-Boss = Milo Cross
+Spy = Farrow Hardsing (dwarf man, 102 yrs old)
+Boss = Milo Cross (Infernis)
+
+Snap Terminal
+
+
+
+
+SESSION 0 STUFF
+- Deck of player safety
+- What do you like about games
+- 
