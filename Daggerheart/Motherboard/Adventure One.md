@@ -48,6 +48,7 @@ Either way, meeting with Priv:
 	- Reminds them of the official narrative, and that fearmongering will be considered deliberate hindering of the process of establishing order
 	- Tells them to get to Mac's shop. Player can roll for history to remember that Mac's is a not-so-secret black market shop. She also seems to hesitate when suggesting him (insight check). She says they'll have to go by foot (railcars are down and she won't give them a rider again). They can press her and she tells them he's a useful asset (why would she admit that? What if they don't succeed any rolls? Isn't this an interesting story aspect?) 
 	- Threatens them. If they don't act discretely, they'll all take the fall for whatever happens.
+	- Priv wants to blame the Originalist-aligned church of  
 
 **Beat 2: Meeting Mac**
 Sequence 1: Travel (by foot)
@@ -82,13 +83,19 @@ Sequence 2: The Racket.
 
 Spy = Farrow Hardsing (dwarf man, 102 yrs old)
 Boss = Milo Cross (Infernis)
+Worker in factory: **Marrow Gray** orc
+Kala Vance Elf
 
-Snap Terminal
 
-
+**CLUES**
+Engineer's notes: new guy has been taking Lupus for walks
+Farrow's locker (locked): quantum disk, hard had
+Quantum disk is encrypted
 
 
 SESSION 0 STUFF
 - Deck of player safety
 - What do you like about games
-- 
+- Content
+	- Snap Terminal
+	- Tether
