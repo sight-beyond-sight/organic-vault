@@ -10,7 +10,8 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 	- Prive gouger, scalper, opportunist
 	- Gray skin, blonde hair, tied in low knot, amber eyes, no visible sclera
 	- Wants to sell her stock and get with the May Traders
-- 
+
+- Syncope  
 
 - Zig Lowynn
 	- Orderborne 
