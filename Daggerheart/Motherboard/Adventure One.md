@@ -113,5 +113,7 @@ Travis
 - probably from somewhere with trees
 - First kill was my captor (trophy his plaid shirt)
 
-look out for
-- 
+Eva + Travis
+- look out for powerful people
+- Travis knows one of eva's mentors an interaction when walkaway passed by
+
