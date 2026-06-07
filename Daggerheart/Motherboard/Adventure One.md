@@ -113,3 +113,5 @@ Travis
 - probably from somewhere with trees
 - First kill was my captor (trophy his plaid shirt)
 
+look out for
+- 
