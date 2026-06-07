@@ -118,3 +118,8 @@ Eva + Travis
 - look out for powerful people
 - Travis knows one of eva's mentors an interaction when walkaway passed by
 
+Der Hammer
+- clavicular
+- doesn't know where the lodge is
+- Travis wants body to be more proportional
+- Eva would be open to learning the real truth of life even if it's devastating
