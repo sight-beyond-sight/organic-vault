@@ -79,3 +79,6 @@ Sequence 2: The Racket.
 	- Can spot the vents on the roof with the naked eye. If they decide to go that way, the path is round the back of the factory, a series of emergency ladders. If they try to climb, they can spot an infected remnant on the upper level through a window. They have to roll stealth, if they fail a timer begins where the remnant begins to hit the glass until it breaks, chasing them up the roof. Not a hard fight, but scary. If they enter through the vents, they start on the second floor.
 	- Can go through the outflow pipe in the back. Big monster, harder fight. How can they get around that? Maybe some barrels of sludge on the other side of the factory? Sounds too simple and video gamey. Maybe an animal handling check to either offer sludge or a healing paste (if they got one from Mac), or a harder one to just pass by (nature check shows that the creature doesn't see things that move slowly very well, and it's wounded, so it chooses to ignore them)
 	- What else is around the factory?
+
+Spy = Farrow Hardsing (human man, 24 yr old)
+Boss = Milo Cross
