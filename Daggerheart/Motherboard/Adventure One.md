@@ -102,3 +102,8 @@ SESSION 0 STUFF
 - Content
 	- Snap Terminal
 	- Tether
+
+
+Eva
+- cold contact with her people
+- she feels fatalistic now that it's happening again
