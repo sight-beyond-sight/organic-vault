@@ -13,6 +13,8 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 
 - Syncope Sarum
 	- Firbolg, he/him, 30
+	- Wants to buy water filter from Piezo for himself and his plants, which he calls his children
+	- Hypochondriac
 	- 
 
 - Zig Lowynn
