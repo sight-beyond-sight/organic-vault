@@ -32,7 +32,8 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 - Officer Hatchet,
 	- Elf, 22, ordeborne, she/her.
 	- Dark hair in high tail, not too long. Argent Guard uniform.
-	- 
+	- Storms out, saying she'll tell the boards about this, that this is what people entrusted her with.
+	- Political opponent = Kaelin Arane (she/her)
 
 Option 2: Motorized carriage ride to the Priv's office. Maybe the Priv's messenger is in the back with them.
 - Problem: boring, nothing to do in a little car but talk to the NPC, who won't tell them what they have to do.
