@@ -91,7 +91,10 @@ Kala Vance Elf
 Engineer's notes: new guy has been taking Lupus for walks
 Farrow's locker (locked): quantum disk, hard had
 Quantum disk is encrypted
+Quantum disk says: dig the roots till the bottom of earth / drink of the spring below
+Lupus has his core ruptured
 
+Kohd is religious, sing-songy
 
 SESSION 0 STUFF
 - Deck of player safety
