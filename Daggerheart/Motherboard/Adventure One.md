@@ -105,6 +105,7 @@ SESSION 0 STUFF
 
 
 Eva
+- Street magician
 - cold contact with her people
 - she feels fatalistic now that it's happening again
 
