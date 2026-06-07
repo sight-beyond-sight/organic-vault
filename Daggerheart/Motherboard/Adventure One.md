@@ -5,10 +5,15 @@ Location: austere, statue dedicated to The Builder (maybe first Priv of the city
 - Reception guy is extremely burned out
 - Maybe other citizens are waiting? They could be funny or minor characters for later.
 	- Ideas: man who is concerned about the impact the Fury will have on the scrap market. He's been looking to buy some specific  parts for a while and now nobody wants to sell; Trader  who bought those parts before the fury and now stands to make a fortune. The two of them bicker, have a little  debate about the free market (can there be any gameplay here? Trader guy sells them overpriced scrap. Desperate guy... what?). Another guy/woman: she is convinced it's the corrowcraft, wants to lead charge. They're a police officer, there to request immediate promotion and course of attack. Maybe she gets invited in first, gets immediately turned away, when she leaves she mentions how one of the Priv's political opponents would have acted decisively, and she's going to tell the press about this (THREAD FOR LATER, playing with the idea of accumulating reputation-ruining information about the Priv for later.)
+- Piezo 
 
 - Zig Lowynn
 	- Orderborne 
+	- Firbolg
+	- 68 yr/old, 7 feet tall, leathery face with a thick dark beard, horns which curl up and spiral  back inwards.
+	- he/him
 	- Priv's messenger
+	- Studied with the Priv to be in the guard, instead went to the Tower Watch, at Sear Point.
 
 Option 2: Motorized carriage ride to the Priv's office. Maybe the Priv's messenger is in the back with them.
 - Problem: boring, nothing to do in a little car but talk to the NPC, who won't tell them what they have to do.
