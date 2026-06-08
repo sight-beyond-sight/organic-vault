@@ -25,4 +25,4 @@ Layout:
 - The Hex - city center, where you can find
 	- Architect's Crossing - biggest station in the suspended railcar network called "The Carriageway" (mechanized, run by remnant conductors)
 	- Council Hex - the central plaza, built after  the 6 clans united by the Architect
-	- Bannercross - the large headquarters of the judicial branch of local government;  
+	- Bannercross - the heart of judicial matters in Argent; Magistrates oversee *demarcation* proceedings, where they determine whether the interests of the city lie with or against the accused. The accused sits on the left side of the hall from the magistrate's perspective, and the Guard or the accuser stand on the other side.   
