@@ -44,4 +44,23 @@ Layout:
 - Shunt: low-class sector
 	- Leaky Kettle: sketchy stab, owner (Claymore) runs smuggling operations, houses smugglers 
 	- Hinge Plex: a plex (cinema), showing "vulgar" media like cheap action stitches (videos with stories comprised of many short videos called reels stitched together)
-	- 
+	- The Hangars: living area, built on top of storage units for remnants
+- Terraces: high-class living area
+	- Reach: reconditioned skyscrapers interspersed with small plazas. Lower levels tend to have shops, restaurants etc.
+	- Iron Vault: the only legal bank of Argent, oversees contracts for Quantum, holds escrow, adjudicates financial disputes etc.
+	- Flowerdocks: a high-status Plex on a pier, famous for maintaining flowers year-round, getting your stitch featured here is a big achievement
+- Hearth
+	- Hydroponics farms
+	- Residential buildings for Keepers, specialized engineers that work on the Hydroponics farms
+- Old Parovia
+	- Temple of Saint Solana, a Renewer temple, majority faith in Argent
+	- Smaller guild halls, like the traders, artisand and the secretive scouts guild
+	- Largest park in Argent, Guilds Park
+- Zenith Way
+	- Exit towards Switch Withawick, restricted to sanctioned trade caravans only
+- Barracks
+	- Seat of the Priv and her advisors
+	- Central command of the Guard
+	- Direct access to the largest Free Data Well, named Uplink
+	- Connects only to The Hex, by way of the Bridge of the Guildpact, which is quite long and rigged with explosives
+	- Carved into the mountain
