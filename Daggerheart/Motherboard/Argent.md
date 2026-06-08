@@ -43,4 +43,5 @@ Layout:
 	- larger scale industrial activity such as "the Works", where the players are going in the inciting event.
 - Shunt: low-class sector
 	- Leaky Kettle: sketchy stab, owner (Claymore) runs smuggling operations, houses smugglers 
-	- Hinge Plex: a plex (cinema) and 
+	- Hinge Plex: a plex (cinema), showing "vulgar" media like cheap action stitches (videos with stories comprised of many short videos called reels stitched together)
+	- 
