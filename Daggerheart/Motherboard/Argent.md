@@ -6,6 +6,7 @@ History:
 - Sera was the first "Priv", the person appointed to oversee the wellbeing of the city. She promised that when the Barrier was complete, she'd resign her role and let another be elected Priv, and she kept her promise.
 - This happened 200 years ago.
 - Since then, Argent has remained a stable democracy, but has also become a police state, driven by a constant desire for stability above all else.
+- Argent is often attacked, raided, scouted or even sieged by the carrowcraft walkaway, but their walls have kept them safe so far.
 
 Common opinions of citizens of Argent:
 - Argent is exceptional, we are civilized while others are savage
@@ -25,4 +26,20 @@ Layout:
 - The Hex - city center, where you can find
 	- Architect's Crossing - biggest station in the suspended railcar network called "The Carriageway" (mechanized, run by remnant conductors)
 	- Council Hex - the central plaza, built after  the 6 clans united by the Architect
-	- Bannercross - the heart of judicial matters in Argent; Magistrates oversee *demarcation* proceedings, where they determine whether the interests of the city lie with or against the accused. The accused sits on the left side of the hall from the magistrate's perspective, and the Guard or the accuser stand on the other side.   
+	- Bannercross - the heart of judicial matters in Argent; Magistrates oversee *demarcation* proceedings, where they determine whether the interests of the city lie with or against the accused. The accused sits on the left side of the hall from the magistrate's perspective, and the Guard or the accuser stand on the other side. If one is determined to be aligned with the interests of the city, the magistrate strikes the hammer down into the corresponding holder, indicating that they stand alongside the Architect, helping build Argent.
+	- Connections: Alleyside, Barracks, Parovia, Terraces, Gardens
+- Alleyside: the High street of Argent, the best shops, restaurants and taverns (called "stabs" colloquially for "establishments") can be found here.
+	- Kettle Point: fancy stab where high-status people socialize, bosses of this place have always kept a good relationship with the Priv, no matter who they were.
+	- Countdown: multi-story trading hall, run by one of the wealthiest patrons of Argent
+	- Citizen's General Hospital and Morgue: most reliable and technically advanced place of medicine known to the Vale, available only to citizens of Argent
+- Parovia: the largest residential district for average citizens. Apartment buildings in stacked hexagon patterns, connected by skyways.
+	- Veon's Bastions: collection of buildings occupied by the Technomancer guilds, named after Veon, the technomancer that pioneered remnant husbandry in Argent
+	- The Boards: a stab housing a collection of in-door terminals connected to a Free Data Well, which towers over the neighborhood. This is where people can check the latest news from the Network.
+- Nadir way: one of the two mountain passes out of Argent. Permanently closed ever since the Truce with the Free Coastal Cities.
+- Builder's Quarter: the industrial sector
+	- the Punge is a long stretch of biofuel refiners and chemical manufacturers. It smells awful and they dump their waste into the lake
+	- many boutique workshops, repair shops etc. such as Stook's and Last Ditch (Mac's shop)
+	- larger scale industrial activity such as "the Works", where the players are going in the inciting event.
+- Shunt: low-class sector
+	- Neymore & others: sketchy stab, owner (Neymore) runs smuggling operations 
+	- 
