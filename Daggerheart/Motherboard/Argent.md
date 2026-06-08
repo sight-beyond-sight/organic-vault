@@ -35,12 +35,12 @@ Layout:
 - Parovia: the largest residential district for average citizens. Apartment buildings in stacked hexagon patterns, connected by skyways.
 	- Veon's Bastions: collection of buildings occupied by the Technomancer guilds, named after Veon, the technomancer that pioneered remnant husbandry in Argent
 	- The Boards: a stab housing a collection of in-door terminals connected to a Free Data Well, which towers over the neighborhood. This is where people can check the latest news from the Network.
-	- Arena: sport events happen here, but also concerts and parties. Sports: skates races, 
+	- Arena: sport events happen here, but also concerts and parties. Sports: skates races, gates (use shockwave generators to activate gates, which steer kites into a net)
 - Nadir way: one of the two mountain passes out of Argent. Permanently closed ever since the Truce with the Free Coastal Cities.
 - Builder's Quarter: the industrial sector
 	- the Punge is a long stretch of biofuel refiners and chemical manufacturers. It smells awful and they dump their waste into the lake
 	- many boutique workshops, repair shops etc. such as Stook's and Last Ditch (Mac's shop)
 	- larger scale industrial activity such as "the Works", where the players are going in the inciting event.
 - Shunt: low-class sector
-	- Claymore & others: sketchy stab, owner (Claymore) runs smuggling operations 
-	- 
+	- Leaky Kettle: sketchy stab, owner (Claymore) runs smuggling operations, houses smugglers 
+	- Hinge Plex: a plex (cinema) and 
