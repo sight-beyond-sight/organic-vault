@@ -1,5 +1,5 @@
 - Timer: 0
-- 5 Fear
+- 4 Fear
 
 
 
