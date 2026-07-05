@@ -1,5 +1,7 @@
 - Timer: 0
-- 5 Fear
+- 4 Fear
+
+
 
 Fairwind 1
 Kafi 4
